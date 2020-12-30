@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App8</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn">next</string>
+    <string name="firstFragment">First Fragment</string>
+    <string name="secondFragment">Second Fragment</string>
+    <string name="thirdFragment">Third Fragment</string>
+    <string name="openFragments">Open Fragments</string>
+    <string name="enterText">Enter text</string>
+    <string name="sendText">Send text</string>
+
+</resources>
